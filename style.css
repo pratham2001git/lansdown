@@ -1,0 +1,21 @@
+*{
+ margin: 0;
+ padding:0;
+ box-sizing: border-box;
+}
+
+.hero{
+    background-image: url(image.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    color: white;
+
+}
+section.attraction{
+    display: flex;
+}
